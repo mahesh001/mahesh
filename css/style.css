@@ -662,7 +662,7 @@ a.selected-item:before, .side-menu a:hover:before {
 	transition: all 0.4s ease;
 }
 .experiences .timeline h3, .experiences .timeline p {
-	color: #fff;
+	color: #000;
 	font-weight: 300;
 }
 .experiences .timeline::before {
@@ -673,7 +673,7 @@ a.selected-item:before, .side-menu a:hover:before {
 	margin-left: -2px;
 	top: 0;
 	height: 100%;
-	background: #222;
+	background: #00ffff;
 	border-radius: 2px;
 }
 .experiences .timeline .timeline-block {
@@ -681,7 +681,7 @@ a.selected-item:before, .side-menu a:hover:before {
 	margin-bottom: 40px;
 }
 .experiences .timeline .timeline-block .icon {
-	background: #222;
+	background: #00ffff;
 	position: absolute;
 	width: 50px;
 	height: 50px;
@@ -690,7 +690,7 @@ a.selected-item:before, .side-menu a:hover:before {
 	border-radius: 50%;
 }
 .experiences .timeline .timeline-block .icon i {
-	color: #fff;
+	color: #ccffff;
 	font-size: 2rem;
 	line-height: 50px;
 }
@@ -698,8 +698,8 @@ a.selected-item:before, .side-menu a:hover:before {
 	width: 44%;
 	border: 1px solid #222;
 	padding: 20px;
-	color: #222;
-	background: #222;
+	color: #000;
+	background: #00ffff;
 	text-align: left;
 }
 .experiences .timeline .timeline-block .content h3 {
@@ -716,7 +716,7 @@ a.selected-item:before, .side-menu a:hover:before {
 .experiences .timeline .timeline-block .content span.job-title {
 	font-size: 0.95em;
 	display: block;
-	color: #aaa;
+	color: #000;
 	text-transform: capitalize;
 	margin-bottom: 15px;
 }
